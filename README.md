@@ -22,5 +22,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=Adikumaw&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Quote of the Day!
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
