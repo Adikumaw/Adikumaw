@@ -14,14 +14,12 @@
 
 ---
 
-<h2>📊 GitHub Stats: </h2>
+<h2>📊 My GitHub Stats: </h2>
 
-![](https://github-readme-stats.vercel.app/api?username=Adikumaw&theme=dark&hide_border=true&include_all_commits=false&count_private=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adikumaw&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Adikumaw&theme=dark&hide_border=false&include_all_commits=false&count_private=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adikumaw&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Adikumaw&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Quote of the Day!
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Adikumaw&icon=0&color=0)](https://visitcount.itsvg.in)
