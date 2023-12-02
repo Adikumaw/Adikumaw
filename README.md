@@ -16,7 +16,7 @@
 
 <h2>📊 My GitHub Stats: </h2>
 
-![](https://github-readme-stats.vercel.app/api?username=Adikumaw&theme=blueberry&hide_border=true&include_all_commits=false&count_private=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adikumaw&theme=blueberry&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Adikumaw&theme=dark&hide_border=true&include_all_commits=false&count_private=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adikumaw&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Adikumaw&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
