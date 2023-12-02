@@ -6,7 +6,6 @@ A passionate Software Developer currently pursuing a degree in Computer Science.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/adityakumawat105) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/weSqkfS9Hm) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@kumawataditya.17)
 
-<img src="https://github.com/Adikumaw/Adikumaw/assets/92208854/edcc8c9b-a3e5-4f87-ab68-e8f8ba160c2d">
 <img src="https://github.com/Adikumaw/Adikumaw/assets/92208854/7ba05ec3-2c83-445b-bbf9-3aaae068d2b8" width="100%">
 
 <div style="display: flex;">
