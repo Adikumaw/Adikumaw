@@ -1,7 +1,6 @@
 # <img src="https://github.com/Adikumaw/Adikumaw/assets/92208854/b689be5d-61d6-4a5e-952e-92721c453277" width="30px">Hi there , I am Aditya Kumawat!
 
 A passionate Software Developer currently pursuing a degree in Computer Science. My journey in the world of programming has been exciting, and I thrive on solving challenging problems and creating meaningful solutions.
-![new2](https://github.com/Adikumaw/Adikumaw/assets/92208854/edcc8c9b-a3e5-4f87-ab68-e8f8ba160c2d)
 
 <h2> Connect with Me: <img src="https://github.com/Adikumaw/Adikumaw/assets/92208854/296cecae-baa7-4af5-910c-68c76cb1a6b3" width="30px"/> </h2>
 
